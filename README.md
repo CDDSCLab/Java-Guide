@@ -17,5 +17,5 @@ java相关知识整理与汇总:earth_asia:
 
 ### 代码示例
 &emsp;第三部分主要为代码示例，内容有：
-- [Java+MongoDB](https://github.com/CDDSCLab/Java-Guide/blob/master/demo/mongodb/README.md)
+- [Java+MongoDB](https://github.com/CDDSCLab/Java-Guide/tree/master/%E4%BB%A3%E7%A0%81%E7%A4%BA%E4%BE%8B/mongodb)
 
